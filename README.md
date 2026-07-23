@@ -146,7 +146,7 @@ PowerBI-Ecommerce-Dashboard/
 ├── README.md
 └── screenshots/
     ├── overview.png
-    ├── customer_analysis.png
+    ├── overview2.png
     └── data_model.png
 ```
 

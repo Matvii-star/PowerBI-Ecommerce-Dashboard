@@ -160,9 +160,9 @@ PowerBI-Ecommerce-Dashboard/
 
 ---
 
-### Customer & Product Analysis
+### Overview 2
 
-![Customer Analysis](screenshots/customer_analysis.png)
+![Overview 2](screenshots/overview2.png)
 
 ---
 

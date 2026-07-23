@@ -143,6 +143,7 @@ The report includes custom DAX measures such as:
 PowerBI-Ecommerce-Dashboard/
 │
 ├── Dashboard.pbix
+├── Dashboard.pdf
 ├── README.md
 └── screenshots/
     ├── overview.png
